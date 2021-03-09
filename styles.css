@@ -1,0 +1,65 @@
+body {
+  color: #333;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  line-height: 1.5;
+  margin: 0;
+}
+
+main {
+margin: 25px 10px;
+border-radius: 6px;
+background-color: #c9d6df;
+padding: 15px;
+}
+
+h1 {
+  font-size: 3rem;
+  margin-bottom: 0;
+
+}
+
+
+ul {
+  line-height: 1.6;
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+}
+
+li {
+  margin: 16px 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+#title {
+
+}
+
+#img-div {
+  background-color: white;
+  border-radius: 6px;
+  width: 98%;
+  margin: 10px auto ;
+
+}
+
+#image {
+  display: block;
+  margin: 0 auto;
+  max-width: 98%;
+}
+
+#img-caption {
+padding: 10px;
+}
+
+#cite {
+  font-style: italic;
+  max-width: 545px;
+  margin: 0 auto 20px auto;
+}
